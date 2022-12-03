@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactport/static/css/main.b8355770.css",
+    "main.js": "/reactport/static/js/main.dcd3ae1d.js",
+    "static/media/me.png": "/reactport/static/media/me.e0d58e2387cf041ce52d.png",
+    "static/media/portfolio2.jpg": "/reactport/static/media/portfolio2.33e8661cf189dcf93545.jpg",
+    "static/media/portfolio5.png": "/reactport/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio3.jpg": "/reactport/static/media/portfolio3.b400573f55c1e0381e6a.jpg",
+    "static/media/portfolio4.jpg": "/reactport/static/media/portfolio4.3784515e3fa1b73f7c2c.jpg",
+    "static/media/portfolio1.jpg": "/reactport/static/media/portfolio1.4e1271d8a4c0d9848c81.jpg",
+    "static/media/portfolio6.jpg": "/reactport/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/cv.pdf": "/reactport/static/media/cv.6ae056e53b11b10af92a.pdf",
+    "static/media/me-about.jpg": "/reactport/static/media/me-about.08e524c50aec31f351e0.jpg",
+    "index.html": "/reactport/index.html",
+    "main.b8355770.css.map": "/reactport/static/css/main.b8355770.css.map",
+    "main.dcd3ae1d.js.map": "/reactport/static/js/main.dcd3ae1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8355770.css",
+    "static/js/main.dcd3ae1d.js"
+  ]
+}
