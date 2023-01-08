@@ -33,8 +33,8 @@ const Contact = () => {
           <article className="contact__option">
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
-            <h5>Coming Soon</h5>
-            <a href="https://m.me/ernest.achiever" target="_blank">Send a message</a>
+            <h5>Robert Martin</h5>
+            <a href="https://m.me/profile.php?id=100004379104997" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
