@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Fullstack developer with experience in key web developement languages including HTML, CSS, and Javascript, as well as important tools like Git, MySQL, React, Express, MongoDB, and Node. Exposure to and practice with technologies such as Web API's, server-side API's, JQuery, Moment, Bootstrap, Tailwind, Jest, Insomnia. 
+            Fullstack developer with experience in key web developement languages including HTML, CSS, and Javascript, as well as important tools such as Git, GitHub, MySQL, React, Express, MongoDB, and Node. Exposure to and practice with technologies such as Web API's, server-side API's, JQuery, Moment, Bootstrap, Tailwind, Jest, Insomnia. 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
