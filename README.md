@@ -1,3 +1,11 @@
+Hello and welcome to Robert Martin's Portfolio
+This portfolio was created to showcase my skills as a developer and to highlight some of my favorite projects.
+The application provides a hub for some of my work and acts as a means for fellow developers and prospective employers alike to be able to reach me via multiple online platforms.
+During development of this project, I also learned some very nifty design skills including the react icon library, hover transitions, and becoming more familiar with setting variable color options to be reused in CSS.
+I look forward to hearing any feedback.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
