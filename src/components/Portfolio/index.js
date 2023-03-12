@@ -6,23 +6,25 @@ import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
+import robsBar from '../../assets/robsBar.jpg'
 
 // DO NOT USE THE IMAGES IN PRODUCTION
 
 const data = [
+  
   {
     id: 1,
+    image: robsBar,
+    title: "Rob's Bar & Grill: Discover Rob's Bar & Grill, a mythical restaurant",
+    github: 'https://github.com/RobertMartinL/restaurant-page',
+    demo: 'https://robertmartinl.github.io/restaurant-page/'
+  },
+  {
+    id: 2,
     image: IMG1,
     title: 'Enthusiast: Hobby-based social media site',
     github: 'https://github.com/shanicesauce/enthusiast',
     demo: 'https://afternoon-plateau-77681.herokuapp.com/'
-  },
-  {
-    id: 2,
-    image: IMG2,
-    title: 'DogFinder: Find the perfect dog for adoption',
-    github: 'https://github.com/bsolis6878/Dog-Finder',
-    demo: 'https://bsolis6878.github.io/Dog-Finder/'
   },
   {
     id: 3,
@@ -47,11 +49,11 @@ const data = [
   },
   {
     id: 6,
-    image: IMG6,
-    title: 'Coming Soon',
-    github: 'https://github.com',
-    // demo: ''
-  }
+    image: IMG2,
+    title: 'DogFinder: Find the perfect dog for adoption',
+    github: 'https://github.com/bsolis6878/Dog-Finder',
+    demo: 'https://bsolis6878.github.io/Dog-Finder/'
+  },
 ]
 
 
