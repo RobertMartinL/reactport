@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactport/static/css/main.b02b22b4.css",
-    "main.js": "/reactport/static/js/main.5aa65b71.js",
+    "main.css": "/reactport/static/css/main.513a4355.css",
+    "main.js": "/reactport/static/js/main.5b614938.js",
     "static/media/me.png": "/reactport/static/media/me.e0d58e2387cf041ce52d.png",
     "static/media/portfolio2.jpg": "/reactport/static/media/portfolio2.33e8661cf189dcf93545.jpg",
     "static/media/robsBar.jpg": "/reactport/static/media/robsBar.fff796f83b5937563f64.jpg",
@@ -13,11 +13,11 @@
     "static/media/portfolio6.jpg": "/reactport/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/me-about.jpg": "/reactport/static/media/me-about.08e524c50aec31f351e0.jpg",
     "index.html": "/reactport/index.html",
-    "main.b02b22b4.css.map": "/reactport/static/css/main.b02b22b4.css.map",
-    "main.5aa65b71.js.map": "/reactport/static/js/main.5aa65b71.js.map"
+    "main.513a4355.css.map": "/reactport/static/css/main.513a4355.css.map",
+    "main.5b614938.js.map": "/reactport/static/js/main.5b614938.js.map"
   },
   "entrypoints": [
-    "static/css/main.b02b22b4.css",
-    "static/js/main.5aa65b71.js"
+    "static/css/main.513a4355.css",
+    "static/js/main.5b614938.js"
   ]
 }
